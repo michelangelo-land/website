@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://michelangelo.land/sitemap.xml
+
+# Crawl-delay for bots that support it
+Crawl-delay: 1
